@@ -43,3 +43,4 @@ Some tasks were taken and reworked from following sources:
 * https://github.com/sergiiz/RxBasicsKata by Sergii Zhuk
 * https://medium.com/@nikita.malyschkin/8-async-javascript-challenges-for-senior-developers-b994f204d086 by Nikita
   Malyschkin
+* https://habr.com/ru/articles/689256/ by Maxim Firsov
