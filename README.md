@@ -41,3 +41,5 @@ Some tasks were taken and reworked from following sources:
 Некоторые задания были взяти и переработаны из следующих источников:
 
 * https://github.com/sergiiz/RxBasicsKata by Sergii Zhuk
+* https://medium.com/@nikita.malyschkin/8-async-javascript-challenges-for-senior-developers-b994f204d086 by Nikita
+  Malyschkin

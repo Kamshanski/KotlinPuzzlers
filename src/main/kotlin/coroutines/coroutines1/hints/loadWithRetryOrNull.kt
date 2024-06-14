@@ -1,0 +1,9 @@
+package coroutines.coroutines1.hints
+
+interface loadWithRetryOrNull {
+	/**
+	 * Use try-catch to catch IOException.
+	 *
+	 * Используй try-catch для отлова IOException.
+	 */
+}
